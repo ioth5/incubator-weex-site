@@ -283,6 +283,13 @@ export default [
     android: 'https://a.app.qq.com/o/simple.jsp?pkgname=com.qima.kdt'
   },
   {
+    name_CN: '库店',
+    name_EN: 'kudian',
+    icon: 'https://distribute.secoo.com/weex/img/TopdeskIcon-02.png',
+    iOS:'https://itunes.apple.com/app/id1299020118?mt=8',
+    android: 'https://a.app.qq.com/o/simple.jsp?pkgname=com.secoo.secooseller'
+  },
+  {
     name_CN: '超级IP',
     name_EN: 'superip',
     icon: 'https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/f1/c9/18/f1c91808-8244-9e97-bd4e-c98a03d6d850/AppIcon-0-1x_U007emarketing-0-0-85-220-0-5.png/460x0w.jpg',
